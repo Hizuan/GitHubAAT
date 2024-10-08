@@ -1,5 +1,2 @@
 # GitHubAAT
-# GitHubAAT
-# GitHubAAT
-# GitHubAAT
-# GitHubAAT
+This is my first tutorial creating repository on Github
